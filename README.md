@@ -1,3 +1,13 @@
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+![laptop](https://user-images.githubusercontent.com/98023409/230180772-45ec6f5b-ec41-47ef-b762-614d2a941ebd.png)
+
+![iPhone-XR-XS-Max-414x896](https://user-images.githubusercontent.com/98023409/230180993-821270ff-16d1-462e-884b-51c9525f4c5f.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
