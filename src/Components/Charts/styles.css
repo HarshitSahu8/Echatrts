@@ -1,0 +1,18 @@
+.chart-container {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin: 1rem 0;
+}
+.chart {
+  width: 100%;
+  height: 400px;
+  padding: 1rem 0;
+}
+
+/* for mobile */
+@media (max-width: 600px) {
+  .chart-container {
+    padding: 0.25rem;
+  }
+}

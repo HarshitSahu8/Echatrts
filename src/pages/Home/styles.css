@@ -1,0 +1,24 @@
+.wrapper {
+  max-width: 1200px;
+  padding: 1rem;
+  margin: 0 auto;
+}
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+/* for mobile  */
+@media (max-width: 600px) {
+  .wrapper {
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .title {
+    font-size: 1.5rem;
+  }
+}
