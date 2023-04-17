@@ -1,12 +1,13 @@
 <!-- ABOUT THE PROJECT -->
 ## Screenshots
 ![Medium-Screen-1024x800](https://user-images.githubusercontent.com/98023409/232502719-64f6898f-3504-438a-92f3-1172aa975ec1.png)
+![iPhone-XS-X-375x812](https://user-images.githubusercontent.com/98023409/232503557-af08b6dd-c817-4cd6-9d19-1371a6f52e7e.png)
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/98023409/232502845-b9e31e05-c095-4d0b-bdae-74c57b56cae7.png" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/98023409/232502845-b9e31e05-c095-4d0b-bdae-74c57b56cae7.png" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/98023409/232502845-b9e31e05-c095-4d0b-bdae-74c57b56cae7.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/98023409/232503557-af08b6dd-c817-4cd6-9d19-1371a6f52e7e.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/98023409/232503557-af08b6dd-c817-4cd6-9d19-1371a6f52e7e.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/98023409/232503557-af08b6dd-c817-4cd6-9d19-1371a6f52e7e.png" width=270 height=480></td>
   </tr>
  </table>
 
