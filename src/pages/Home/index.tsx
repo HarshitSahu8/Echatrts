@@ -77,6 +77,27 @@ const Home = () => {
   }
 
   const optionBar: optionType = {
+    dataZoom: [
+      {
+        show: true,
+        start: 94,
+        end: 100,
+      },
+      {
+        type: "inside",
+        start: 94,
+        end: 100,
+      },
+      {
+        show: true,
+        yAxisIndex: 0,
+        filterMode: "empty",
+        width: 30,
+        height: "80%",
+        showDataShadow: false,
+        left: "93%",
+      },
+    ],
     title: {
       text: "Bar chart",
       left: "center",

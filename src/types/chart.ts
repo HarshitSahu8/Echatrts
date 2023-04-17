@@ -1,4 +1,7 @@
 export type optionType = {
+  dataZoom?: {
+    [key: string]: string | boolean | Number;
+  }[];
   title?: {
     text?: string;
     left?: string;
@@ -29,7 +32,7 @@ export type optionType = {
     };
   };
   series: {
-    data: number[];
+    data: number[] | string[];
     type: string;
   }[];
 };
